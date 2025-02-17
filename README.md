@@ -58,3 +58,5 @@ O script também remove tarefas agendadas desnecessárias, que geralmente perten
 ## Licença
 
 Se acaso for divulgar meu script por favor deixe os creditos ! by reck
+
+![Optimizer Image](https://github.com/erick144hz/Menu-Facturer/blob/main/menu%20facturer.png?raw=true)
