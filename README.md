@@ -60,3 +60,11 @@ O script também remove tarefas agendadas desnecessárias, que geralmente perten
 Se acaso for divulgar meu script por favor deixe os creditos ! by reck
 
 ![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/tlgd%20ne.png?raw=true)
+
+## Antes da Otimização !
+
+![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/tlgd%20ne.png?raw=true)
+
+## Depois da otimização 
+
+![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/tlgd%20ne.png?raw=true)
