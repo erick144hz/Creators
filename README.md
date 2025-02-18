@@ -63,8 +63,8 @@ Se acaso for divulgar meu script por favor deixe os creditos ! by reck
 
 ## Antes da Otimização !
 
-![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/tlgd%20ne.png?raw=true)
+![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/mine.png?raw=true)
 
 ## Depois da otimização 
 
-![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/tlgd%20ne.png?raw=true)
+![Optimizer Image](https://github.com/erick144hz/Creators/blob/main/mine%2001.png?raw=true)
